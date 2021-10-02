@@ -1,0 +1,4 @@
++incdir+../include+../src+../env+../tests+../hdl
+
++define+UVM_NO_DEPRECATED +define+UVM_OBJECT_MUST_HAVE_CONSTRUCTOR 
+../tests/wb_env_tb_mod.sv ../hdl/wb_env_top.sv ../hdl/dut.v 
