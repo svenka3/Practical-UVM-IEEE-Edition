@@ -1,3 +1,6 @@
+import uvm_pkg::*;
+`include "uvm_macros.svh"
+
 
 `ifndef WB_ENV_TB_MOD__SV
 	`define WB_ENV_TB_MOD__SV
