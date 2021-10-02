@@ -118,3 +118,6 @@ help:
 	@echo "*  make MODE=DEBUG  [To enable -debug_all]                     *"
 	@echo "****************************************************************"
 
+rvra:
+	vsim -c -do rvra_run.do
+	
